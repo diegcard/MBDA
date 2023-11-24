@@ -1,0 +1,9 @@
+# Ignora archivos temporales
+*~
+
+# Ignora archivos de respaldo de Emacs
+\#*\
+
+#Folder
+Proyecto/
+
