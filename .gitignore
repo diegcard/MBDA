@@ -5,5 +5,7 @@
 \#*\
 
 #Folder
+
 Proyecto/
 
+*.asta.lock
