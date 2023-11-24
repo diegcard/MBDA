@@ -1,3 +1,5 @@
+
+
 CREATE TABLE pqrs(
     ticked VARCHAR2(13) NOT NULL,
     codigoSolicitud NUMBER(9) NOT NULL,
