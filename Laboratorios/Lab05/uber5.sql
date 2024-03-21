@@ -1,4 +1,4 @@
--- CREATE DATABASE uber;
+S-- CREATE DATABASE uber;
 -- USE uber;
 
 /*---------------------------------------------CICLO 1: XTablas---------------------------------------------*/
